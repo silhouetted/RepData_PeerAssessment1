@@ -1,3 +1,14 @@
+# Please read before grading!
+
+The images make the html file too large to be shown on github.
+
+You can, however, see the image files in [this folder](https://github.com/silhouetted/RepData_PeerAssessment1/tree/master/Week2Project_files/figure-html).
+
+You can either view the raw html or view the Rmarkdown file.
+
+Please do look at the figures - it took me a while to get them right!
+
+
 # What is this repo?
 
 This repo is the answers to Week 2, Project 1 of the Coursera Reproducible Research Module. 
