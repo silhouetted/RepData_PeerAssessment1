@@ -1,13 +1,16 @@
-# Please read before grading!
+# Please read before grading! How to see images.
 
 The images make the html file too large to be shown on github.
 
-You can, however, see the image files in [this folder](https://github.com/silhouetted/RepData_PeerAssessment1/tree/master/Week2Project_files/figure-html).
+**[I have uploaded the website here](http://courseraproject2.droppages.com/index.html)**
 
-You can either view the raw html or view the Rmarkdown file.
+The URL is: http://courseraproject2.droppages.com/index.html
+
+You can still see the image files in [this folder](https://github.com/silhouetted/RepData_PeerAssessment1/tree/master/Week2Project_files/figure-html).
+
+You can also still view the raw html or view the Rmarkdown file.
 
 Please do look at the figures - it took me a while to get them right!
-
 
 # What is this repo?
 
